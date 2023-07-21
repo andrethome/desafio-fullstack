@@ -11,4 +11,6 @@ Fiz diversos requests no postman, para validar a comunicação com os endpoints 
 
 Devido ao tempo exíguo, três dias sem internt e à minha falta de experiência, não consegui avançar no front-end, mas criei uma estrutura básica com uma chamada ao cadastro de fornecedor e uma interface para receber o json do backend.
 
+Foi adicionado um ednpoint para consulta de cep.
+
 A ideia de realizar esse teste, foi tentar demonstrar a minha vontade de aprender as ferramentas em questão, entrar nesse nicho e permanecer na Accenture. 
